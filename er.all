@@ -1,0 +1,13 @@
+=> 
+[[32m#<User:0x00007a4eefc739a0[0m
+  id: [34m[1m1[0m,
+  name: [31m[1m"[0m[31mMichael Hartl[0m[31m[1m"[0m,
+  email: [31m[1m"[0m[31mmichael@example.com[0m[31m[1m"[0m,
+  created_at: Fri, 15 Nov 2024 05:50:27.451820000 UTC +00:00,
+  updated_at: Fri, 15 Nov 2024 05:50:27.451820000 UTC +00:00[32m>[0m,
+ [32m#<User:0x00007a4eefc73860[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31mA Nother[0m[31m[1m"[0m,
+  email: [31m[1m"[0m[31manother@example.org[0m[31m[1m"[0m,
+  created_at: Fri, 15 Nov 2024 05:52:00.667097000 UTC +00:00,
+  updated_at: Fri, 15 Nov 2024 05:52:00.667097000 UTC +00:00[32m>[0m]
